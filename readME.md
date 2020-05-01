@@ -17,15 +17,15 @@
 
 <br/>
 
-<center><img src="C:\Users\user\Desktop\img/vue.png" width="50" height="70"> 
-    <img src="C:\Users\user\Desktop\img/bootstrap.png" width="50" height="70">
-    <img src="C:\Users\user\Desktop\img/docker.png" width="50" height="70">
-    <img src="C:\Users\user\Desktop\img/hfabric.png" width="150" height="70">
-    <img src="C:\Users\user\Desktop\img/ubuntu.png" width="50" height="70">
-    <img src="C:\Users\user\Desktop\img/jira.png" width="50" height="70">
-    <img src="C:\Users\user\Desktop\img/gitlab.png" width="60" height="70">
-    <img src="C:\Users\user\Desktop\img/amazon.png" width="70" height="70">
-<center><br/>
+<center><img src="C:\Users\user\Desktop\img/vue.PNG" width="50" height="70"> 
+    <img src="C:\Users\user\Desktop\img/bootstrap.PNG" width="50" height="70">
+    <img src="C:\Users\user\Desktop\img/docker.PNG" width="50" height="70">
+    <img src="C:\Users\user\Desktop\img/hfabric.PNG" width="150" height="70">
+    <img src="C:\Users\user\Desktop\img/ubuntu.PNG" width="50" height="70">
+    <img src="C:\Users\user\Desktop\img/jira.PNG" width="50" height="70">
+    <img src="C:\Users\user\Desktop\img/gitlab.PNG" width="60" height="70">
+    <img src="C:\Users\user\Desktop\img/amazon.PNG" width="70" height="70">
+<center>
 
 <br/>
 
@@ -62,12 +62,12 @@
 
 <br/>
 
-<center><img src="./img/intro.png" width="700" height="400"></center>
-<center><img src="./img/architecture.png" width="800" height="350"><center>
+<center><img src="./img/intro.PNG" width="700" height="400"></center>
+<center><img src="./img/architecture.PNG" width="800" height="350"><center>
 
 <br/>
 
-<center><img src="./img/swag.png" width="600" height="500"><center>
+<center><img src="./img/swag.PNG" width="600" height="500"><center>
 
 <br/>
 
@@ -194,4 +194,4 @@ var maintenanceInfo = {
 
 <br/>
 
-<center><img src="./img/team.png" width="800" height="350"></center>
+<center><img src="./img/team.PNG" width="800" height="350"></center>
