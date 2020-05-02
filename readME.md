@@ -1,37 +1,18 @@
 <center><img src="./img/logo2.png" width="600" height="300"><center>
-
+<br/>
 
 # 													[**:cherry_blossom:** BLOOM ](https://i02b201.p.ssafy.io/) 
 
-<center><b> 하이퍼레저 패브릭</b>을 이용한 <b>부동산 이력 조회</b>, <b>BLOOM</b>은 신뢰성 있는 내역을 제공합니다.</center><br/>
-<p align = "center"> 📱💻🖥 </p><br/>
-<center><b>Supported Skills & Architecture</b></center><br/>
-<center><img src="./img/springboot.PNG" width="60" height="70"> 
-    <img src="./img/swagger.PNG" width="60" height="70">
-    <img src="./img/mysql.PNG" width="60" height="70">
-    <img src="./img/mybatis.PNG" width="60" height="70">
-    <img src="./img/jwt.PNG" width="50" height="70">
-    <img src="./img/oauth.PNG" width="70" height="70">
-    <img src="./img/kakaomap.PNG" width="80" height="70">
-<center> <br/>
-
-<br/>
-
-<center><img src="C:\Users\user\Desktop\img/vue.PNG" width="50" height="70"> 
-    <img src="C:\Users\user\Desktop\img/bootstrap.PNG" width="50" height="70">
-    <img src="C:\Users\user\Desktop\img/docker.PNG" width="50" height="70">
-    <img src="C:\Users\user\Desktop\img/hfabric.PNG" width="150" height="70">
-    <img src="C:\Users\user\Desktop\img/ubuntu.PNG" width="50" height="70">
-    <img src="C:\Users\user\Desktop\img/jira.PNG" width="50" height="70">
-    <img src="C:\Users\user\Desktop\img/gitlab.PNG" width="60" height="70">
-    <img src="C:\Users\user\Desktop\img/amazon.PNG" width="70" height="70">
-<center>
+<center><b> 하이퍼레저 패브릭</b>을 이용한 <b>부동산 이력 조회</b>, <b>BLOOM</b>은 신뢰성 있는 내역을 제공합니다.</center> <br/><br/>
+<p align = "center"> 📱💻🖥 </p>
+<center><b>Supported Skills & Architecture</b></center>
+|                                                  | <img src="./img/swagger.PNG" width="60" height="70">   | <img src="./img/springboot.PNG" width="60" height="70"> | <img src="./img/mybatis.PNG" width="60" height="70" align="center"> | <img src="./img/mysql.PNG" width="60" height="70">  | <img src="./img/jwt.PNG" width="50" height="70">  | <img src="./img/oauth.PNG" width="70" height="70">  | <img src="./img/kakaomap.PNG" width="80" height="70"> |
+| ------------------------------------------------ | ------------------------------------------------------ | ------------------------------------------------------- | ------------------------------------------------------------ | --------------------------------------------------- | ------------------------------------------------- | --------------------------------------------------- | ----------------------------------------------------- |
+| <img src="./img/vue.PNG" width="50" height="70"> | <img src="./img/bootstrap.PNG" width="50" height="70"> | <img src="./img/docker.PNG" width="50" height="70">     | <img src="./img/hfabric.PNG" width="150" height="70">        | <img src="./img/ubuntu.PNG" width="50" height="70"> | <img src="./img/jira.PNG" width="50" height="70"> | <img src="./img/gitlab.PNG" width="60" height="70"> | <img src="./img/amazon.PNG" width="60" height="70">   |
 
 <br/>
 
 ------
-
-<br/>
 
 <br/>
 
@@ -63,16 +44,18 @@
 <br/>
 
 <center><img src="./img/intro.PNG" width="700" height="400"></center>
-<center><img src="./img/architecture.PNG" width="800" height="350"><center>
+<center><img src="./img/architecture.PNG" width="790" height="350"><center>
+<br/>
 
 <br/>
+
 
 <center><img src="./img/swag.PNG" width="600" height="500"><center>
-
 <br/>
 
 <br/>
 
+<br/>
 
 ## **:chains:** 부동산 및 유지보수 이력 Chaincode
 
