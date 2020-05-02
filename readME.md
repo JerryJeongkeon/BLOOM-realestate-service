@@ -19,7 +19,7 @@
 
 <br/>
 
-<center><img src="./img/main.png" width="600" height="300"><center>
+<center><img src="./img/main.PNG" width="600" height="300"><center>
 <br/>
 
 <br/>
