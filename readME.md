@@ -5,7 +5,6 @@
 
 <center><b> 하이퍼레저 패브릭</b>을 이용한 <b>부동산 이력 조회</b>, <b>BLOOM</b>은 신뢰성 있는 내역을 제공합니다.</center> <br/><br/>
 <center><b>Supported Skills & Architecture</b></center><br/>
-
 <br/>
 
 | <img src="./img/swagger.PNG" width="60" height="70"> |   <img src="./img/mysql.PNG" width="60" height="70">   |  <img src="./img/ubuntu.PNG" width="60" height="70">  |   <img src="./img/springboot.PNG" width="60" height="70">    |
@@ -20,13 +19,16 @@
 
 <br/>
 
+<center><img src="./img/main.png" width="600" height="300"><center>
+<br/>
+
+<br/>
+
 | <img src="./img/ranking.gif" align="center" height="300"> | <img src="./img/search.gif" align="center" height="300"> |
 | --------------------------------------------------------- | -------------------------------------------------------- |
 | <img src="./img/info.gif" align="center" height="300">    | <img src="./img/detail.gif" align="center" height="300"> |
 
-<br/>
 
-<br/>
 
 ------
 
