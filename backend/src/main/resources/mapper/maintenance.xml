@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper 
+PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"   
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="maintenance">
+
+	<insert id="createMaintenance" parameterType="maintenance"
+		useGeneratedKeys="true" keyProperty="num" keyColumn="maintenance.num">
+		insert into
+		maintenance(address, dong, ho, latitude, longitude, category,
+		details, cost, license, image, createdAt)
+		values(#{address}, #{dong}, #{ho}, #{latitude},
+		#{longitude}, #{category}, #{details}, #{cost}, #{license}, #{image}, now())
+	</insert>
+
+	<select id="getMaintenanceNum" parameterType="maintenance"
+		resultType="maintenance">
+		select * from maintenance where address like #{address} and
+		dong like #{dong}and ho like #{ho};
+	</select>
+	
+	<select id="getMaintenanceByNum" parameterType="java.lang.Long" resultType="maintenance">
+		select * from maintenance where num=#{num}
+	</select>
+	
+	<select id="getAgentContribution" parameterType="java.lang.String" resultType="maintenance">
+		select * from maintenance where license=#{license} order by num desc
+	</select>
+	
+	<select id="getLastCountMaintenance" resultType="java.lang.Integer">
+		select count(*)+1 as
+		rowcount from maintenance
+	</select>
+	
+	<select id="getAllMaintenance" resultType="maintenance">
+		select distinct address,
+		dong, ho, latitude, longitude
+		from maintenance
+	</select>
+	
+	<select id="getMaintenanceDetail" parameterType="maintenance"
+		resultType="maintenance">
+		select distinct address, dong, ho, latitude, longitude
+		from maintenance
+		where latitude=#{latitude} and longitude = #{longitude}
+	</select>
+	
+	<select id="getRecentNum" parameterType="maintenance"
+		resultType="java.lang.Long">
+		select num
+		from maintenance
+		where num in (select num from
+		maintenance
+		where address=#{address} and dong=#{dong} and ho=#{ho})
+		order
+		by num desc limit 1
+	</select>
+	
+</mapper>
+

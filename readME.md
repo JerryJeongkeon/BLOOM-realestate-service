@@ -4,7 +4,6 @@
 # 													[**:cherry_blossom:** BLOOM ](https://i02b201.p.ssafy.io/) 
 
 <center><b> 하이퍼레저 패브릭</b>을 이용한 <b>부동산 이력 조회</b>, <b>BLOOM</b>은 신뢰성 있는 내역을 제공합니다.</center> <br/><br/>
-<p align = "center"> 📱💻🖥 </p>
 <center><b>Supported Skills & Architecture</b></center><br/>
 
 <br/>
@@ -151,7 +150,7 @@ var maintenanceInfo = {
 
 ## 🏃 Quick Start
 
-#### Front-end (Vue)
+#### **Front-end (Vue)**
 
 :one:  **npm install** 명령어를 실행시켜 주세요.
 
@@ -161,7 +160,7 @@ var maintenanceInfo = {
 
 <br/>
 
-#### Back-end (Springboot)
+#### **Back-end (Springboot)**
 
 :recycle:   ​https://projectlombok.org/download **lombok**을 다운로드 후, dependency를 추가해주세요.
 
