@@ -9,7 +9,7 @@
 
 | <img src="./img/swagger.PNG" width="60" height="70"> |   <img src="./img/mysql.PNG" width="60" height="70">   |  <img src="./img/ubuntu.PNG" width="60" height="70">  |   <img src="./img/springboot.PNG" width="60" height="70">    |
 | :--------------------------------------------------: | :----------------------------------------------------: | :---------------------------------------------------: | :----------------------------------------------------------: |
-|   <img src="./img/jwt.PNG" width="60" height="70">   |   <img src="./img/Oauth.PNG" width="60" height="70">   | <img src="./img/kakaomap.PNG" width="60" height="70"> | <img src="./img/mybatis.PNG" width="60" height="70" align="center"> |
+|   <img src="./img/jwt.PNG" width="60" height="70">   |   <img src="./img/oauth.PNG" width="60" height="70">   | <img src="./img/kakaomap.PNG" width="60" height="70"> | <img src="./img/mybatis.PNG" width="60" height="70" align="center"> |
 |   <img src="./img/vue.PNG" width="50" height="70">   | <img src="./img/bootstrap.PNG" width="50" height="70"> |  <img src="./img/docker.PNG" width="50" height="70">  |    <img src="./img/hfabric.PNG" width="150" height="70">     |
 |  <img src="./img/jira.PNG" width="60" height="70">   |  <img src="./img/gitlab.PNG" width="60" height="70">   |  <img src="./img/amazon.PNG" width="60" height="70">  |                                                              |
 
